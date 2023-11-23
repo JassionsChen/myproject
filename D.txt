@@ -1,2 +1,5 @@
-梅花3
-哇!同花順!!!
+diff a/D.txt b/D.txt	(rejected hunks)
+@@ -0 +1,2 @@
++梅花3
+ 哇!同花順!!!
+\ No newline at end of file
